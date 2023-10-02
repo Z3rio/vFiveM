@@ -1,0 +1,3 @@
+---@server
+
+RegisterNetEvent("hello")
